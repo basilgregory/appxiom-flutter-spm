@@ -4,7 +4,7 @@ Real-time bug reporting for mobile apps (Flutter Core). This repository distribu
 
 ## Requirements
 
-- **iOS:** 13.0 or later
+- **iOS:** 15.0 or later
 - **Xcode:** 15.0 or later (Swift 5.9+)
 
 ## Installation via Swift Package Manager (SPM)
